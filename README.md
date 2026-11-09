@@ -1,15 +1,15 @@
 # Spider Man
 > my first superhero movie
+> one of my favorite movie
 
 ## about movie
 > A teenager named Peter Parker gains incredible abilities after being bitten by a radioactive spider.
 
-## Characters
+## Favorite Characters
 1. Peter Parker/Spider Man (Tobey Maguire)
-2. Mary Jane (Kirsten Dust)
-3. Harry Osborn (James Franco)
-4. Norman Osborn/Green Goblin
-5. Vulture (Dwight Schultz)
+2. Harry Osborn (James Franco)
+3. Norman Osborn/Green Goblin
+4. Vulture (Dwight Schultz)
 
 ## Details
 | Details | Information |
